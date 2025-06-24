@@ -100,3 +100,7 @@ The project is also an excellent demonstration of WebSocket usage and frontend-b
 
 *OUTPUT*:
 
+
+<img width="488" alt="Image" src="https://github.com/user-attachments/assets/f66f9449-43df-4358-87b7-e390fa746d00" />
+
+<img width="488" alt="Image" src="https://github.com/user-attachments/assets/0d1cd49f-87b2-4a9e-8571-9b4ce274b04d" />
