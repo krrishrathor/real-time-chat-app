@@ -13,6 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 *DESCRIPTION*:
+
 *About*
 
 This is a real-time chat application built as part of an internship project using React.js for the frontend and Node.js with WebSockets (ws library) for the backend. The project demonstrates live two-way communication between clients without needing page refreshes — similar to modern messaging platforms like WhatsApp or Messenger.
